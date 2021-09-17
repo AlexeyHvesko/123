@@ -1,0 +1,6 @@
+/home/k5-3-23-2/Projects/lab1/lab1/bin/Debug/lab1.exe
+/home/k5-3-23-2/Projects/lab1/lab1/bin/Debug/lab1.pdb
+/home/k5-3-23-2/Projects/lab1/lab1/obj/x86/Debug/lab1.csprojAssemblyReference.cache
+/home/k5-3-23-2/Projects/lab1/lab1/obj/x86/Debug/lab1.csproj.CoreCompileInputs.cache
+/home/k5-3-23-2/Projects/lab1/lab1/obj/x86/Debug/lab1.exe
+/home/k5-3-23-2/Projects/lab1/lab1/obj/x86/Debug/lab1.pdb
